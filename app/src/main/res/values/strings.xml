@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tymer</string>
+    <string name="start_count_down_timer">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="restart">restart</string>
+</resources>
